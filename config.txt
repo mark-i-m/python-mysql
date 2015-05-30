@@ -1,0 +1,8 @@
+{
+	"db_passwd": "passwd", 
+	"db_name": "data2db", 
+	"db_columns": ["P_id", "LastName", "FirstName", "Address", "City"], 
+	"db_uname": "root", 
+	"db_host": "localhost", 
+	"db_table": "Persons"
+}
